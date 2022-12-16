@@ -1,3 +1,6 @@
+# Tennis TimeSformer
+Fine-tuned the TimeSformer to binary classify tennis matches. Check out my repo `preprocess_tennis` for preprocessing scripts. And "Robust_Final_Project.pdf" for detailed explaination of work. Achieved 87% accuracy on test set. 
+
 # TimeSformer
 
 This is an official pytorch implementation of our ICML 2021 paper [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095.pdf). In this repository, we provide PyTorch code for training and testing our proposed TimeSformer model. TimeSformer provides an efficient video classification framework that achieves state-of-the-art results on several video action recognition benchmarks such as Kinetics-400.
