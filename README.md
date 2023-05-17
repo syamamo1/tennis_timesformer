@@ -1,5 +1,5 @@
 # Tennis TimeSformer
-Fine-tuned the TimeSformer to binary classify tennis matches. Check out my repo `preprocess_tennis` for preprocessing scripts. And "Robust_Final_Project.pdf" for detailed explaination of work. Achieved 87% accuracy on test set. 
+Fine-tuned the TimeSformer to binary classify tennis matches. Check out my repo [preprocess_tennis](https://github.com/syamamo1/preprocess_tennis) for preprocessing scripts. And [this report](https://github.com/syamamo1/tennis_timesformer/blob/master/Robust_Final_Project.pdf) for detailed explaination of work. Achieved 87% accuracy on test set. 
 
 # TimeSformer
 
